@@ -46,6 +46,7 @@ Use **Try an example**, then **Save and view Analysis**, for a quick demonstrati
 - `tests/test_retirement_model.py`: numeric boundary and financial model tests.
 - `tests/test_app.py`: Streamlit AppTest checks for save, reset, navigation, and validation.
 - `.streamlit/config.toml`: application theme.
+- [`docs/architecture.md`](docs/architecture.md): application flow, component responsibilities, state lifecycle, and projection assumptions.
 
 Run checks after installing requirements:
 
